@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Soy Sonia Pérez, estudiante del máster de bioestadistica en la Universidad Complutense de Madrid.
+
+- 🔭 I’m currently working on a Clinical Research Organization
+- 🌱 I’m currently learning biostatistics
+
 <!--
 **sonipe03/sonipe03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
